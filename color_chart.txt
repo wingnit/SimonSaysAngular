@@ -1,0 +1,18 @@
+--------------------------------
+Glow Colors
+'#47CCED' --- cyan blue
+'#FF0000' --- red
+'#33CC33' --- light green
+'#FFFF00' --- yellow
+'#AD5CFF' --- light purple
+'#DB944D' --- light orange
+
+
+--------------------------------
+Initial Colors
+'#1482CC' --- dark blue
+'#CC0000' --- dark red
+'#009900' --- green
+'#CCCC00' --- dark yellow
+'#5C1F99' --- dark purple
+'#CC6600' --- dark orange
