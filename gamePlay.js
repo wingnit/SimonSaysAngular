@@ -134,7 +134,7 @@ function playGame()
 //**************************
 //Play animations
 //**************************
-bonsai.run(document.getElementById('simonSaysStart'), {
+bonsai.run(document.getElementById('playSimonSays'), {
  code: playGame,
  width: 1220,
  height: 1080
