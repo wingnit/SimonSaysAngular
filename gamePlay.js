@@ -4,7 +4,7 @@
 function playGame()
 {
     /*game buttons*/
-    var button1 = makeButton(300, 300); //topLeft button
+    var button1 = makeButton(0, 0); //topLeft button
     var button1Glare = makeGlare(320, 265);
 
     var button2 = makeButton(500, 300); //topRight button
