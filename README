@@ -1,9 +1,0 @@
-Simon Says - AngularJS
-----------------------------------
-
-This web application uses AngularJS, an MVC framework, and BonsaiJS, a simple animation framework, to implement a version of the Simon Says game. 
-
-Running the application:
-
-To run this application, open gameStart.html in your browser (prefferably Chrome or Firefox) by entering this path into the URL: 
-file:///YourDrive:/SimonSaysAngular/gameStart.html
